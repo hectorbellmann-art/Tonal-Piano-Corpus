@@ -2,7 +2,7 @@
 
 The Tonal Piano Corpus is a collection of engraved piano scores prepared from publicly available printed editions. Its purpose is to provide a consistent, machine-readable dataset for musical analysis, comparison, and study. The corpus includes at least eleven keyboard works by each of sixty tonal composers (plus one dodecaphonic composer for contrast), engraved in Finale and exported to MusicXML for computational use.
 
-The project is not a critical edition and does not attempt to reconstruct composers� intentions or correct historical sources. It is a working dataset prepared with care, clarity, and transparency.
+The project is not a critical edition and does not attempt to reconstruct composers’ intentions or correct historical sources. It is a working dataset prepared with care, clarity, and transparency.
 
 ---
 
@@ -41,6 +41,15 @@ The corpus reproduces the printed sources except in a few isolated cases where t
 
 The original printed readings are preserved in the TIFF source images.
 
+## Copyright-Restricted Composers
+
+The corpus includes works by seven composers whose scores remain under copyright in Australia, the EU, and the United States:
+
+Glière, Dohnányi, Shostakovich, Khachaturian, Barber, Kabalevsky, and Krenek.
+
+Their engraved files (TIFF, MUS/MUSX, and MusicXML) are preserved privately and are not distributed in this public repository. They may be shared individually upon request for scholarly research under fair dealing provisions. All printed readings are preserved in the private archive.
+
+
 ---
 
 ## How to Cite
@@ -52,7 +61,7 @@ A standard citation entry (APA, MLA, BibTeX) will be provided for users who wish
 
 ## Version History
 
-**v1.0 � Initial Release**  
+**v1.0 — Initial Release**  
 (Full version history to be completed in Step 5.)
 
 ---
