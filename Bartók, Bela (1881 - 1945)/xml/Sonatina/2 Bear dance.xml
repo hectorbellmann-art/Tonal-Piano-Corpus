@@ -1,0 +1,4455 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 0.7b Partwise//EN" "//C:/Program Files/Finale 2004a/Component Files/partwise.dtd">
+<score-partwise>
+	<movement-title>Bear Dance, 2nd mov. from Sonatina</movement-title>
+	<identification>
+		<creator type="composer">Bela Bartók</creator>
+		<rights>1915</rights>
+		<encoding>
+			<software>Finale 2004 for Windows</software>
+			<encoding-date>2013-04-15</encoding-date>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Piano</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>Grand Piano</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+				<midi-channel>1</midi-channel>
+				<midi-program>1</midi-program>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<measure number="1">
+			<attributes>
+				<divisions>40</divisions>
+				<key>
+					<fifths>0</fifths>
+					<mode>major</mode>
+				</key>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<staves>2</staves>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+				<clef number="2">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics relative-y="-15" relative-x="-34">
+						<mf/>
+					</dynamics>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<sound tempo="80"/>
+			<direction placement="below">
+				<direction-type>
+					<words font-weight="bold" font-style="italic" relative-y="-16">pesante</words>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="2">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<accidental>natural</accidental>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="3">
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="4">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<accidental>natural</accidental>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>1</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="5">
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0" relative-y="-21"/>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="6">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<tuplet type="start" placement="above"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+				<notations>
+					<tuplet type="stop"/>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>1</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="7">
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0" relative-y="-14"/>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="8">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>1</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>1</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<barline location="right">
+				<bar-style>light-light</bar-style>
+			</barline>
+		</measure>
+		<measure number="9">
+			<direction placement="above">
+				<direction-type>
+					<dynamics>
+						<p/>
+					</dynamics>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<direction placement="below">
+				<direction-type>
+					<dynamics relative-y="14" relative-x="-34">
+						<mf/>
+					</dynamics>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="above" number="1"/>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<accidental>sharp</accidental>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="above" number="1"/>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="10">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="11">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="above" number="1"/>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<accidental>sharp</accidental>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="above" number="1"/>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>down</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">backward hook</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="12">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<notations>
+					<articulations>
+						<tenuto placement="below"/>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="13">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0" relative-y="-8"/>
+				</direction-type>
+				<offset>-21</offset>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="14">
+			<attributes>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<offset>-4</offset>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="diminuendo" spread="15" relative-y="-8"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<tuplet type="start" placement="above"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="0"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="15">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<notations>
+					<tuplet type="stop"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0" relative-y="-8"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<offset>-14</offset>
+				<staff>2</staff>
+			</direction>
+		</measure>
+		<measure number="16">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<detached-legato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="diminuendo" spread="15"/>
+				</direction-type>
+				<offset>-7</offset>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<notations>
+					<articulations>
+						<detached-legato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="0"/>
+				</direction-type>
+				<offset>-35</offset>
+				<staff>2</staff>
+			</direction>
+		</measure>
+		<measure number="17">
+			<attributes>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<direction placement="below">
+				<direction-type>
+					<dynamics relative-y="12" relative-x="-16">
+						<pp/>
+					</dynamics>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<direction placement="below">
+				<direction-type>
+					<dynamics relative-y="20" relative-x="-26">
+						<p/>
+					</dynamics>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0" relative-y="-6"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure>
+		<measure number="18">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="diminuendo" spread="15" relative-y="-5"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+				<notations>
+					<tuplet type="start" placement="above"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<beam number="3">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+					<normal-type>16th</normal-type>
+				</time-modification>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="0"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+		</measure>
+		<measure number="19">
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<notations>
+					<tuplet type="stop"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+					<articulations>
+						<accent placement="below"/>
+						<tenuto placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="crescendo" spread="0"/>
+				</direction-type>
+				<offset>-23</offset>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+				<beam number="3">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>5</duration>
+				<voice>2</voice>
+				<type>32nd</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<beam number="3">end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="15"/>
+				</direction-type>
+				<offset>-13</offset>
+				<staff>2</staff>
+			</direction>
+		</measure>
+		<measure number="20">
+			<direction placement="above">
+				<direction-type>
+					<words font-weight="bold" font-style="italic" relative-y="7" relative-x="-5">poco rallent.</words>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+			<note>
+				<rest/>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+				<notations>
+					<articulations>
+						<detached-legato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>1</staff>
+			</note>
+			<backup>
+				<duration>80</duration>
+			</backup>
+			<direction placement="below">
+				<direction-type>
+					<wedge type="diminuendo" spread="15"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">begin</beam>
+				<beam number="2">begin</beam>
+				<notations>
+					<slur type="start" placement="below" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>2</voice>
+				<type>16th</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction>
+				<direction-type>
+					<wedge type="stop" spread="0"/>
+				</direction-type>
+				<staff>2</staff>
+			</direction>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem>up</stem>
+				<staff>2</staff>
+				<notations>
+					<articulations>
+						<staccato placement="below"/>
+						<detached-legato placement="below"/>
+					</articulations>
+				</notations>
+			</note>
+			<barline location="right">
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
