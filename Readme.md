@@ -43,9 +43,9 @@ The original printed readings are preserved in the TIFF source images.
 
 ## Copyright-Restricted Composers
 
-The corpus includes works by eight composers whose scores remain under copyright in Australia, the EU, and the United States:
+The corpus includes works by nine composers whose scores remain under copyright in Australia, the EU, and the United States:
 
-Glière, Dohnányi, Hindemith, Shostakovich, Khachaturian, Barber, Kabalevsky, and Krenek.
+Glière, Dohnányi, Poulenc, Hindemith, Shostakovich, Khachaturian, Barber, Kabalevsky, and Krenek.
 
 Their engraved files (TIFF, MUS/MUSX, and MusicXML) are preserved privately and are not distributed in this public repository. They may be shared individually upon request for scholarly research under fair dealing provisions. All printed readings are preserved in the private archive.
 
